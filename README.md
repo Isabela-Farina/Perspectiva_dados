@@ -2,3 +2,5 @@
 Repositório para as atividades do curso de Perspectivas em Ciência de Dados
 
 Aula 3 - Isabela F. :)
+
+Outra altera
